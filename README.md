@@ -22,29 +22,10 @@ Students and employees on campus have no quick, private way to check their BMI a
 - Vanilla JavaScript (if-else, switch-case, loops)
 - Google Apps Script + Google Sheets (data storage)
 
-## How to Run
-
-1. Clone this repository:
-   ```
-   git clone <your-repo-url>
-   ```
-2. Open `index.html` in a browser (no build step required).
-3. To enable data recording, deploy `AppsScript.gs` as a Google Apps Script Web App (see comments in that file) and paste the resulting URL into `WEB_APP_URL` in `script.js`.
-
 ## Live Demo
 
-[Add your GitHub Pages link here once published]
-
-## Project Structure
-
-```
-health-checker-kiosk/
-├── index.html      # Page structure and form
-├── style.css        # Styling and responsive layout
-├── script.js         # Validation, BMI logic, data submission
-└── AppsScript.gs   # Backend script for Google Sheets (paste into Apps Script editor)
-```
+https://pvievie.github.io/health-checker-kiosk/
 
 ## Author
 
-Evie — BSIT, De La Salle University - Dasmariñas
+Phoebe Delito — BSIT, De La Salle University - Dasmariñas
